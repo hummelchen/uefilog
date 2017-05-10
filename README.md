@@ -5,6 +5,9 @@ UEFI keylogger prototype
 Большая часть кода заимствована из примеров в библиотеке gnu-efi, код крайне сырой и требует доработки.
 Тестировался в VirtualBox
 
+Требует библиотеку gnu-efi:
+`git submodule update --init --recursive`
+
 
 ## Legal
 
